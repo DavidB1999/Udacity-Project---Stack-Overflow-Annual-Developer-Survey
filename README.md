@@ -14,7 +14,8 @@ The main content of this project is in the Jupyer Notebook `Analysis.ipynb`. The
 
 
 ## Results
-tbd
+Two models were developed using different sets of features. The simpler model, which includes only four features, demonstrated only a marginal decrease in accuracy compared to the more complex version. Both models perform moderately in predicting salary, with an RMSE of approximately $30,000. However, they clearly reveal—perhaps unsurprisingly—that country of employment and developer role are the primary determinants of salary. For more details I'd like to refer you to my [blog post](tbd).
+
 
 ## Acknowlegments
 As stated data was made available by [Stack Overflow](https://survey.stackoverflow.co/).<br>
