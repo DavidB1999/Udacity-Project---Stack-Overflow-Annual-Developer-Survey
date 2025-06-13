@@ -1,7 +1,7 @@
 # Developer Salary Prediction 
 
 ## What this is all about.
-This project is part of the Data Scientist Nanodegree [Udacity](https://www.udacity.com/enrollment/nd025) i am working on. The associated Blog post can be found [here](tbd). <br>
+This project is part of the Data Scientist Nanodegree [Udacity](https://www.udacity.com/enrollment/nd025) i am working on. The associated Blog post can be found [here](https://medium.com/@david.brinkjans/how-much-should-you-earn-as-a-developer-14f62bf9e6d5). <br>
 Part of the challenge was to find an interesting but managable data set within the listed options. I decided to take a closer look at the [Annual Developer Survey from Stack Overflow](https://survey.stackoverflow.co/) from 2024. <br>
 
 The idea was to model the salary for different tpyes of developers and indentify the factors that influence salary in these tech roles.
@@ -14,7 +14,7 @@ The main content of this project is in the Jupyer Notebook `Analysis.ipynb`. The
 
 
 ## Results
-Two models were developed using different sets of features. The simpler model, which includes only four features, demonstrated only a marginal decrease in accuracy compared to the more complex version. Both models perform moderately in predicting salary, with an RMSE of approximately $30,000. However, they clearly reveal—perhaps unsurprisingly—that country of employment and developer role are the primary determinants of salary. For more details I'd like to refer you to my [blog post](tbd).
+Two models were developed using different sets of features. The simpler model, which includes only four features, demonstrated only a marginal decrease in accuracy compared to the more complex version. Both models perform moderately in predicting salary, with an RMSE of approximately $30,000. However, they clearly reveal—perhaps unsurprisingly—that country of employment and developer role are the primary determinants of salary. For more details I'd like to refer you to my [blog post](https://medium.com/@david.brinkjans/how-much-should-you-earn-as-a-developer-14f62bf9e6d5).
 
 
 ## Acknowlegments
